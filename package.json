@@ -1,0 +1,23 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "A inquirer and sql database interface for tracking employees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carson133/employee-tracker.git"
+  },
+  "author": "Carson Carraher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Carson133/employee-tracker/issues"
+  },
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.1.1",
+    "mysql": "^2.18.1"
+  }
+}
