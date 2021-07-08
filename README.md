@@ -83,13 +83,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a simple note taking app built with express, file system and deployed with heroku!
+This is a simple employee tracking software mad using inquirer and sql db!
 
 ### Built With
 
-* [Inquirer](https://expressjs.com)
-* [SQL](https://www.npmjs.com/package/file-system)
-* [console.table]()
+* [Inquirer](https://www.npmjs.com/package/inquirer/v/0.2.3)
+* [SQL](https://www.npmjs.com/package/sql)
+* [console.table](https://www.npmjs.com/package/console.table)
 
 
 
