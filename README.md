@@ -36,7 +36,7 @@
     <img src="📝" alt="Logo">
   </a>
 
-  <h3 align="center">Note Taker</h3>
+  <h3 align="center">Employee Tracker</h3>
 
   <p align="center">
     A simple employee tracking software
